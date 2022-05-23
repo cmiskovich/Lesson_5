@@ -192,14 +192,23 @@ ci_upper_ten_cumulative_return
 ## Libraries used in analysis
 
 os
+
 requests
+
 json
+
 pandas
+
 dotenv
+
 alpaca_trade_api
+
 MCForecastTools
+
 MCSimulation
+
 %matplotlib inline
+
 
 ---
 
